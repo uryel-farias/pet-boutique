@@ -1,0 +1,72 @@
+.banner {
+    width: 100%;
+    height: auto;
+    padding: 120px 80px;
+    background-image: url("/img/banner-topo.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+
+.banner-logo {
+    color: var(--cor-azul-escuro);
+    max-width: 260px;
+}
+
+.banner-logo-img {
+    width: 30px;
+    margin-right: 5px;
+    display: inline;
+}
+
+.banner-nome {
+    font-size: 30px;
+    margin: 0 0 5px 0;
+    display: inline;
+    font-weight: bold;
+}
+
+.banner-slogan {
+    font-size: 14px;
+    text-align: center;
+}
+
+.banner-banner {
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0;
+    background-color: var(--cor-transparencia);
+    box-shadow: 0 8px 32px var(--cor-sombra);
+
+}
+
+.banner-titulo h1{
+    font-size: 30px;
+    color: var(--cor-azul-escuro);
+    text-align: center;
+    font-weight: bold;
+    margin: 0 0 40px;
+}
+
+.banner-botao {
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0 auto 0;    
+    border-radius: 10px;
+    background-color: var(--cor-azul-escuro);
+    font-size: 20px;
+    text-align: center;
+    color: var(--cor-branco);
+    
+}
+
+.banner-botao a {
+    text-decoration: none;
+    color: var(--cor-branco);
+}
+
+.banner-botao img {
+    width: 20px;
+    margin-left: 5px;
+}
