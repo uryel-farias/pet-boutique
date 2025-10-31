@@ -1,0 +1,36 @@
+.servicos {
+    width: 100%;
+    padding: 120px 80px;
+}
+
+.servicos-subtitulo {
+    font-size: 36px;
+    color: var(--cor-azul-escuro);
+    text-align: center;
+    margin: 0 0 45px;
+}
+
+.servicos-container-lista {
+    max-width: 800px;
+    margin: 0 auto 50px;
+    color: var(--cor-azul-escuro);
+}
+
+.servicos-lista {
+    list-style: square;
+
+}
+
+.servicos-lista li {
+    font-size: 20px;
+    margin: 0 0 20px;
+}
+
+.servicos-lista li span {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.servicos-galeria {
+
+}
