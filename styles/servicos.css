@@ -32,5 +32,11 @@
 }
 
 .servicos-galeria {
+    max-width: 800px;
+    margin: 0 auto;
+}
 
+.servicos img {
+    border-radius: 5px;
+    box-shadow:  3px 6px 10px 6px var(--cor-sombra-imagem);
 }
