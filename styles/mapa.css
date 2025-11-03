@@ -1,0 +1,23 @@
+.mapa {
+    width: 100%;
+    padding: 120px 80px;
+    text-align: center;
+}
+.mapa h2 {
+    font-size: 36px;
+    color: var(--cor-azul-escuro);
+    text-align: center;
+    margin:  0 0 45px;   
+}
+
+.mapa p {
+    font-size: 20px;
+    color: var(--cor-azul-escuro);
+    text-align: center;
+    margin: 0 0 45px;
+}
+.mapa-container img{
+    width: 800px;
+    height: 450px;
+
+}
