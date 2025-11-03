@@ -1,0 +1,22 @@
+.marcas {
+    width: 100%;
+    padding: 120px 80px;
+
+}
+
+.marcas h2 {
+    font-size: 36px;
+    color: var(--cor-azul-escuro);
+    text-align: center;
+    margin: 0 0 45px;
+}
+
+.logos {
+    max-width: 800px;
+    margin: 0 auto 0;
+}
+
+.logos img {
+    width: 148px;
+    margin: 0 15px 0;
+}
