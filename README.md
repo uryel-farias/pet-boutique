@@ -6,7 +6,7 @@ Projeto desenvolvido com o objetivo de **aprimorar conhecimentos em HTML e CSS**
 
 O site está hospedado e disponível para visualização na Vercel:  
 
-👉 **[Pet Boutique - Acesse aqui](pet-boutique-woad.vercel.app)**  
+👉 **[Pet Boutique - Acesse aqui](https://pet-boutique-woad.vercel.app/)**  
 *(clique no link para abrir o projeto em uma nova aba)*
 
 > 💡 Projeto proposto pela [DevMedia](https://www.devmedia.com.br/) como parte de estudos de front-end.
