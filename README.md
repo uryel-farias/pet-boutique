@@ -6,10 +6,10 @@ Projeto desenvolvido com o objetivo de **aprimorar conhecimentos em HTML e CSS**
 
 O site está hospedado e disponível para visualização na Vercel:  
 
-👉 **[Pet Boutique - Acesse aqui](https://pet-boutique-woad.vercel.app/){:target="_blank"}**  
-*(clique no link para abrir o projeto em uma nova aba)*
+👉 **[Pet Boutique - Acesse aqui](https://pet-boutique-woad.vercel.app/)**  
 
-> 💡 Projeto proposto pela [DevMedia](https://www.devmedia.com.br/){:target="_blank"} como parte de estudos de front-end.
+
+> 💡 Projeto proposto pela [DevMedia](https://www.devmedia.com.br/) como parte de estudos de front-end.
 
 ---
 
@@ -47,4 +47,4 @@ Durante o desenvolvimento deste projeto, foram praticados:
 
 Desenvolvido por **[Uryel Farias](https://github.com/uryel-farias)** 🧑‍💻  
 📧 uryel.farias@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/uryel-farias/){:target="_blank"}
+💼 [LinkedIn](https://www.linkedin.com/in/uryel-farias/)
