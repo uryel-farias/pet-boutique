@@ -1,5 +1,6 @@
 @import url(/styles/banner.css);
 @import url(/styles/servicos.css);
+@import url(/styles/faixas.css);
 
 :root {
     --cor-azul-escuro: #3c184e;
